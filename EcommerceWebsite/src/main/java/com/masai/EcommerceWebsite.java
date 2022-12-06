@@ -7,10 +7,10 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 @SpringBootApplication
 @EnableSwagger2
-public class OnlineShoppingAppApplication {
+public class EcommerceWebsiteApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(OnlineShoppingAppApplication.class, args);
+		SpringApplication.run(EcommerceWebsiteApplication.class, args);
 	}
 
 

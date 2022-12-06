@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.masai</groupId>
-	<artifactId>OnlineEcommerceWeb</artifactId>
+	<artifactId>EcommerceWebsite</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>OnlineEcommerceWeb</name>
+	<name>EcommerceWebsite</name>
 	<description>Spring Boot Project</description>
 	<properties>
 		<java.version>1.8</java.version>
