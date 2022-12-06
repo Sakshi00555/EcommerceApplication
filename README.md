@@ -62,7 +62,8 @@ spring.mvc.pathmatch.matching-strategy = ANT_PATH_MATCHER
 
 ```
 
-## ER Diagram
+## ER Diagram![Er Diag](https://user-images.githubusercontent.com/83025741/205962488-ee3bbd7d-4e0e-46ab-b92c-b4bfa2c32333.PNG)
+
 
 
 
